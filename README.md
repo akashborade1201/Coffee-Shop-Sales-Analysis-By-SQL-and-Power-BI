@@ -1,0 +1,1 @@
+Data analysis project focused on coffee shop sales using SQL for data extraction and Power BI for visualization. The project includes SQL queries for data preparation and dynamic Power BI dashboards to visualize sales trends, product performance, and store metrics. Insights derived from the analysis were used to optimize sales strategies and improve operational efficiency.
